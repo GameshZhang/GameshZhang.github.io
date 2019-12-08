@@ -1,28 +1,28 @@
 # Site settings
 title: Pointing to the Moon
-description: Blog of Yingkai Liu
+description: Blog of StepZ
 baseurl: "" 
-url: "https://yk-liu.github.io" 
+url: "https://gameshzhang.github.io" 
 
 # GitHub User settings
-username: Yingkai Liu
-github_username: yk-liu
-user_description: A Physics undergrad with a broad interest
-user_title: Physics Undergraduate
-email: yingkai.liu@outlook.com
+username: StephenZhang
+github_username: gameshzhang
+user_description: A CS undergrad with a broad interest
+user_title: CS Undergraduate
+email: stephenzhang@qq.com
 
 # Blog Author settings
 author:
-  name:           Yingkai Liu
+  name:           Stephen Zhang
   picture:        
-  email:          yingkai.liu@outlook.com
-  description:    I'm a Physics undergrad with a broad interest.
+  email:          stephzhang@foxmail.com
+  description:    I'm a CS undergrad with a broad interest.
   twitter:
   facebook:
-  github:         https://github.com/yk-liu
+  github:         https://github.com/gameshzhang
   linkedin:
   # # If you're forking this site, make sure you delete this entry!
-  clustrmap:      MlqUzlcZFdHetSQuxml5oHyt9RwVjZrsGbvyaRpMwgU 
+  clustrmap:      SVX7N3wWdkseB9-_CmPTkH_Nwjy_JU3ph4OT2H54oP4 
   # If you're forking this site, make sure you delete this entry!
 
 
