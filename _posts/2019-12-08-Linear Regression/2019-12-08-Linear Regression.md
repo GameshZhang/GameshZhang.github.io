@@ -18,7 +18,9 @@ $$
 
 In previous notes I draw a few triangulations of torus, Klein bottle and cylinder (which is topologically equivalent to a sphere), etc. The problem is to find a minimal triangulation (minimal vertices, triangles or edges). In this post, I am particular interested in minimal triangulation of $2$ dimensional manifolds, especially torus, $2$-torus, ...
 
+在看了很多东西之后，感觉很有必要总结一下用以备忘，并且感觉很多theory都可以串联起来，所以想要开始写Blog了。打算分几条线来写，一部分总结提炼一下最近看过的东西，一部分记录一些思考与想法，还有一部分慢慢把脑子里学过的东西倒出来。
 
+那么这就是把脑子里的东西倒出来系列的第一篇Blog啦！想要从Machine Learning中的线性回归(Linear Regression)开始讲起。
 
 # 最小二乘估计(LSE)
 

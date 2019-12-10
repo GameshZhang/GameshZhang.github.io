@@ -1,7 +1,7 @@
 ---
-title: Project Easter
-categories: Wild-thoughts
-tags: Wild-thoughts 
+title: How-to-write-a-draft
+categories: categories
+tags: tags
 keywords: evolution 
 description: This is my wild thoughts on the legacy of humanity. This is a diary of a physicist in 4019 A.D.
 numbering: false
