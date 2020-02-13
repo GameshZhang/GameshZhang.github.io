@@ -1,7 +1,7 @@
 ---
 Title: Linear Regression
 edit: 2019-12-08
-categories: Machine Learning 
+categories: Machine-Learning 
 tags: Linear-regression Least-square-estimation MLE MAP
 status: Writing
 description: 从最小二乘法及其几何意义讲起来，验证最小二乘法与高斯噪声的MLE以及高斯噪声高斯先验估计下的MAP等价，并在此角度下叙述正则化的作用。
